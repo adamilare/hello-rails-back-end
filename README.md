@@ -49,6 +49,8 @@ It is a simple server built with Rails, to demonstrate a project setup involving
 To get a local copy up and running, follow these steps.
 This API is consumed by its front-end counterpart [front-end](https://github.com/adamilare/hello-react-front-end)
 
+[Front-end PR](https://github.com/adamilare/hello-react-front-end/pull/1)
+
 ### Prerequisites
 
 In order to run this project you need: any web-browser.
