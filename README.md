@@ -60,7 +60,7 @@ In order to run this project you need: any web-browser.
 Clone this project to your desired folder.
 
 ```
-    git clone https://github.com/adamilare/hello-react-back-end.git
+    git clone https://github.com/adamilare/hello-rails-back-end.git
 ```
 
 ### Install
